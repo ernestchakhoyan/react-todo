@@ -40,7 +40,7 @@ yarn build
 
 ## Author
 
-* **Ernest Chakhoyan** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Ernest Chakhoyan** 
 
 
 
